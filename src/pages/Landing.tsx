@@ -127,7 +127,7 @@ const Landing = () => {
             </span>
           </h1>
           
-          <p className="text-lg md:text-md text-gray/90 mb-8 mt-8 max-w-3xl mx-auto leading-relaxed animate-slide-up">
+          <p className="text-lg md:text-md text-white mb-8 mt-8 max-w-3xl mx-auto leading-relaxed animate-slide-up">
             Experience curated travel packages that match your style, budget, and dreams. 
             From budget adventures to luxury escapes - find your perfect journey in just a few clicks.
           </p>
